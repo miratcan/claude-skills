@@ -4,10 +4,9 @@ Real examples from sessions demonstrating this skill.
 
 ---
 
-## Example: DJ Directory Homepage Audit
+## Example: Directory App Homepage Audit
 
-**Source**: session 2026-03-24
-**Context**: User requested comprehensive UX audit of a Django-based directory site
+**Context**: Comprehensive UX audit of a Django-based directory site
 
 ### How to Run
 

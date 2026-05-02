@@ -4,10 +4,9 @@ Real examples from sessions demonstrating this skill. This file grows over time 
 
 ---
 
-## Example: peeka.pics Landing Page UX Fixes
+## Example: Photo App Landing Page UX Fixes
 
-**Source**: session 199abbea-0b66-4550-a6ba-d063cfca348b (2026-02-23)
-**Context**: User had a UX walkthrough report (`docs/ux-walkthrough-report-2026-02-23.md`) and asked Claude to fix the findings. The report was generated for a pseudonymous invite-only photo Q&A platform (peeka.pics / resmin2 project).
+**Context**: A UX walkthrough report was generated for a pseudonymous invite-only photo Q&A platform and the findings needed to be fixed.
 
 ### Problem
 
@@ -63,7 +62,7 @@ const image = story.media ? (
 // Added below invitation code field:
 <p className="mt-1 text-xs text-page-text/40">
   Don't have a code?{" "}
-  <span className="text-page-text/60">Ask a friend who's already on peeka.pics to invite you.</span>
+  <span className="text-page-text/60">Ask a friend who's already a member to invite you.</span>
 </p>
 ```
 
@@ -81,8 +80,3 @@ Added: drop-shadow-sm
 - Standardizing to English matched the existing English intro text and site name, creating a coherent language identity.
 
 ---
-
-<!--
-To add a new example, copy the template above and fill in the placeholders.
-Each example should have clear attribution to the session it came from.
--->

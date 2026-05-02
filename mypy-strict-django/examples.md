@@ -6,8 +6,7 @@ Real examples from sessions demonstrating this skill. This file grows over time 
 
 ## Example: Fixing 56 mypy errors in Django + Channels project
 
-**Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d (2026-02-09)
-**Context**: User had a Django + Django Channels + DRF project (Simsar crypto analysis app) with mypy --strict enabled. After implementing all features, `mypy .` showed 56 errors across 21 files.
+**Context**: A Django + Django Channels + DRF project with mypy --strict enabled. After implementing all features, `mypy .` showed 56 errors across 21 files.
 
 ### Problem
 
@@ -97,8 +96,3 @@ Added `# type: ignore[type-arg, no-any-return]` to ModelAdmin classes since Djan
 **Result**: 56 errors → 0 errors, full mypy --strict compliance.
 
 ---
-
-<!--
-To add a new example, copy the template above and fill in the placeholders.
-Each example should have clear attribution to the session it came from.
--->

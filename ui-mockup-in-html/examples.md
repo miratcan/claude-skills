@@ -1,13 +1,9 @@
 # UI Mockup in HTML — Examples
 
-## Example 1: peeka.pics Full Redesign
-
-**Source session:** 627dcad1-f6c6-4227-9fc4-b206b213ee43
-**Date:** 2026-02-25
-**Project:** peeka.pics (resmin2)
+## Example 1: Photo App Full Redesign
 
 ### Context
-User wanted to explore a warm, intimate visual direction for a pseudonymous photo Q&A app. Figma AI was tried first but produced poor results. The HTML mockup approach was used instead.
+Exploring a warm, intimate visual direction for a pseudonymous photo Q&A app. Figma AI was tried first but produced poor results. The HTML mockup approach was used instead.
 
 ### Design Exploration Journey
 1. Started with skeuomorphism and jQuery UI nostalgia (rejected — too nostalgic)

@@ -7,8 +7,6 @@ description: |
   you test in browser and the new UI is nowhere visible.
   Example triggers: "BPM slider doesn't show up", "I implemented the component but can't find it",
   "the UI is not visible", component built but browser shows nothing changed.
-verified: 2026-03-04
-source: session:a6ece631-9fcf-4060-b83a-681ac49d741b
 importance: high
 version: 1.0.0
 ---
@@ -90,6 +88,3 @@ needed a **prop contract** that didn't exist (`onUpdateGlobal`).
 3. **No error thrown** — React won't complain if you never use a component
 4. **Build passes** — unused components don't cause build errors (only TypeScript with `noUnusedLocals`)
 
-## Version History
-
-- **1.0.0** (2026-03-04): Initial skill from lucider project — GlobalParams BPM slider orphan component

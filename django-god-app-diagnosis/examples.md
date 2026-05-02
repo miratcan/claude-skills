@@ -4,10 +4,9 @@ Real examples from sessions demonstrating this skill. This file grows over time 
 
 ---
 
-## Example: Jarvis trading app god app teşhisi
+## Example: Trading app god app teşhisi
 
-**Source**: session 8518da07-513f-4773-812f-62740f15fd57 (2026-02-25)
-**Context**: Kullanıcı "jarvis çok kalınlaştı, takip edemiyorum" dedi. `apps/trading/` altındaki yapıyı teşhis edip bölünme önerisi gerekiyordu.
+**Context**: Kullanıcı "app çok kalınlaştı, takip edemiyorum" dedi. `apps/trading/` altındaki yapıyı teşhis edip bölünme önerisi gerekiyordu.
 
 ### Problem
 
@@ -58,8 +57,3 @@ apps/
 Sayısal ölçüm önce yapılır (wc -l), sonra fonksiyon listesi (grep "^def|^class") ile sorumluluklar belirlenir. Bu iki adım birleşince "hangi kodu nereye taşımalıyım?" sorusu net yanıt bulur.
 
 ---
-
-<!--
-To add a new example, copy the template above and fill in the placeholders.
-Each example should have clear attribution to the session it came from.
--->

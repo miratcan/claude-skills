@@ -8,8 +8,6 @@ description: |
 
 # UX Audit — Multidisciplinary Expert Team
 
-> **Verified**: 2026-03-24 | **Source**: user-provided prompt
-
 ## When to Use
 
 - User asks for a design audit, UX review, or visual critique
@@ -103,6 +101,3 @@ Provide a step-by-step roadmap ordered by impact.
 
 - [Examples](examples.md) - Real audit examples
 
-## Version History
-
-- v1.0.0 (2026-03-24): Initial creation from user-provided prompt

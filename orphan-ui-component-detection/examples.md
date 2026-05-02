@@ -1,10 +1,6 @@
 # Examples: Orphan UI Component Detection
 
-## Example 1 — GlobalParams BPM Slider (lucider project)
-
-**Source session**: a6ece631-9fcf-4060-b83a-681ac49d741b
-**Date**: 2026-03-04
-**Project**: lucider (generative audio-visual scene engine)
+## Example 1 — GlobalParams BPM Slider (a music app)
 
 **Context**: Implementing a BPM-based beats system. Plan step 7 was "Add BPM Slider — GlobalParams.jsx".
 The component was created, the file written, the BPM slider UI implemented correctly.

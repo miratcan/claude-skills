@@ -12,8 +12,6 @@ description: |
 
 # UX Walkthrough Report Workflow
 
-> **Verified**: 2026-02-23 | **Source**: session 199abbea-0b66-4550-a6ba-d063cfca348b
-
 ## When to Use
 
 - User provides a UX walkthrough report (markdown) and asks to fix findings
@@ -129,6 +127,3 @@ English UI with untranslated labels in one language (e.g., English intro text + 
 - [Examples](examples.md) - Real examples demonstrating this skill
 - [Troubleshooting](troubleshooting.md) - Error → solution mappings
 
-## Version History
-
-- v1.0.0 (2026-02-23): Initial extraction from session 199abbea-0b66-4550-a6ba-d063cfca348b

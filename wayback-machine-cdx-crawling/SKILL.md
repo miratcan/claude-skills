@@ -7,8 +7,6 @@ description: |
   CRITICAL: WebFetch is blocked for web.archive.org - always use curl via Bash instead.
   Example triggers: "crawl wayback machine", "fetch archived pages", "get data from web.archive.org",
   "scrape historical snapshots", "CDX API", "wayback crawl".
-verified: 2026-02-18
-source-session: 2df316e8-ed9f-47c1-a036-6eac07a2beec
 ---
 
 # Wayback Machine CDX API Crawling
@@ -247,6 +245,3 @@ curl -s "https://web.archive.org/web/{ts}/http://example.com/q/1/popular/" | hea
 - **No resume support** - for 100+ pages, always save progress after each page
 - **Using oldest snapshots** - for max content, use snapshots from the site's peak/final period
 
-## Version History
-
-- 1.0.0 (2026-02-18): Initial version from session 2df316e8 - Wayback Machine CDX API crawling with curl workaround for WebFetch block, resumable crawler pattern

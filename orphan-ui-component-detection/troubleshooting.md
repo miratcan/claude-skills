@@ -20,7 +20,6 @@ import ComponentName from './ComponentName';
 # 4. Add to parent's JSX render
 ```
 
-**Source session**: a6ece631-9fcf-4060-b83a-681ac49d741b
 
 ---
 
@@ -58,4 +57,3 @@ the "create" step marks done, "wire" step gets skipped.
 - [ ] Mounted in JSX with correct props
 - [ ] Visible in browser
 
-**Source session**: a6ece631-9fcf-4060-b83a-681ac49d741b

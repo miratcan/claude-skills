@@ -1,0 +1,48 @@
+{
+    "voice": "Merakli, sicak, gunluk. Marka degil, arkadas. Turkce.",
+    "post_types": [
+        {
+            "type": "daily_question",
+            "weight": 0.5,
+            "description": "Gunluk hayattan bir soru. Reply'da fotograf tetiklemeli.",
+            "examples": [
+                "Masanin ustunde ne var su an?",
+                "Bugun ne giydim goster bakalim",
+                "Pencerenden ne gorunuyor?",
+                "Telefonundaki son fotograf ne?",
+                "Bugunun kahvaltisi nasil?"
+            ]
+        },
+        {
+            "type": "observation",
+            "weight": 0.3,
+            "description": "Gunluk hayat uzerine gozlem. Insanlarin icinde bir sey tetiklemeli.",
+            "examples": [
+                "Herkesin telefonunda paylasilmayi bekleyen fotograflar var",
+                "Kimsenin gormedigi bir masanin ustu bile bir hayatin ozetidir",
+                "Bazen en guzel fotograf cekmeye usendigimiz andir"
+            ]
+        },
+        {
+            "type": "nostalgia_provocation",
+            "weight": 0.2,
+            "description": "Nostalji veya hafif provokasyon. Tartisma / hatira tetiklemeli.",
+            "examples": [
+                "Ilk dijital fotografinizi hatirlayan var mi?",
+                "Instagram'a atmadigin ama silemedigin fotograf hangisi?",
+                "Telefon galerindeki en eski fotograf kac yillik?"
+            ]
+        }
+    ],
+    "best_time": "20:00-22:00",
+    "avoid": [
+        "cok uzun postlar (max 200 karakter)",
+        "hashtag spam",
+        "satis dili",
+        "dogrudan urun/marka tanitimi (henuz degil)",
+        "emoji abartisi",
+        "thread formati"
+    ],
+    "target_metric": "reply sayisi ve reply'larda fotograf orani",
+    "learnings": []
+}

@@ -9,8 +9,6 @@ description: |
 
 # Django God App Diagnosis
 
-> **Verified**: 2026-02-25 | **Source**: session 8518da07-513f-4773-812f-62740f15fd57
-
 ## When to Use
 
 - Bir Django app büyüdü ve içinde çok fazla sorumluluk var
@@ -98,6 +96,3 @@ apps/
 
 - [Examples](examples.md) - Real examples demonstrating this skill
 
-## Version History
-
-- v1.0.0 (2026-02-25): Initial extraction from session 8518da07-513f-4773-812f-62740f15fd57

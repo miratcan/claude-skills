@@ -146,4 +146,3 @@ Typical widths:
 - Suburban house: 8–12m
 - Villa: 10–16m
 
-**Source**: session 2026-04-20 (house_pencil.svg was 10m wide instead of ~5m)

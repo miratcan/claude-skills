@@ -10,8 +10,6 @@ description: |
 
 # Mypy Strict Mode with Django
 
-> **Verified**: 2026-02-09 | **Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d
-
 ## When to Use
 
 - Running `mypy --strict` on a Django + Django REST Framework project
@@ -155,6 +153,3 @@ mypy .  # Should show: Success: no issues found
 - [Examples](examples.md) - Real examples demonstrating this skill
 - [Troubleshooting](troubleshooting.md) - Error → solution mappings
 
-## Version History
-
-- v1.0.0 (2026-02-09): Initial extraction from session c83524b7-7c46-4673-a9aa-dd34b7d9f81d

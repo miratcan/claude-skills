@@ -4,9 +4,8 @@ Real examples from sessions demonstrating this skill.
 
 ---
 
-## Example: DJ Directory Inline Style Extraction
+## Example: Directory App Inline Style Extraction
 
-**Source**: session 2026-03-24
 **Context**: Extracting ~136 inline styles from Django templates into CSS classes
 
 ### Key Observations

@@ -30,7 +30,6 @@ def my_view(request: Request) -> Response:
     portfolio = get_portfolio(user)  # No error
 ```
 
-**Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d (2026-02-09)
 
 ---
 
@@ -63,7 +62,6 @@ Also, disable the "import-untyped" error globally:
 disable_error_code = ["import-untyped"]
 ```
 
-**Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d (2026-02-09)
 
 ---
 
@@ -92,7 +90,6 @@ class MyTestCase(APITestCase):
         # Now mypy knows it's APIClient
 ```
 
-**Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d (2026-02-09)
 
 ---
 
@@ -119,7 +116,6 @@ def handle_event(data: dict[str, Any]) -> None:
 
 For deeply nested structures where you don't care about precise types, `dict[str, Any]` is acceptable.
 
-**Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d (2026-02-09)
 
 ---
 
@@ -152,11 +148,5 @@ class MyProvider:
         yield "chunk"
 ```
 
-**Source**: session c83524b7-7c46-4673-a9aa-dd34b7d9f81d (2026-02-09)
 
 ---
-
-<!--
-To add a new error case, copy the template above and fill in the placeholders.
-Include exact error messages when possible - this helps with discoverability.
--->

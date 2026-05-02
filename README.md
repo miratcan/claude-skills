@@ -40,6 +40,7 @@ Skills are reusable instruction sets that teach Claude Code how to handle specif
 |-------|-------------|
 | [x-agent](x-agent/) | Autonomous X/Twitter account management with strategy, posting, and engagement tracking |
 | [wayback-machine-cdx-crawling](wayback-machine-cdx-crawling/) | Crawl Wayback Machine archives with CDX API and resumable Python crawler |
+| [reddit-json-fetch](reddit-json-fetch/) | Fetch Reddit posts/comments via JSON API when WebFetch is blocked |
 | [graphify](graphify/) | Transform any input into a knowledge graph with clustered communities |
 | [draw-house-svg](draw-house-svg/) | Generate architectural elevation SVG drawings with CAD-level precision |
 
